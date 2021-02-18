@@ -45,13 +45,29 @@
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header text-center">
-                    <!-- <b>Receso administrativo</b> -->
-                    <b>Esterilización</b>
+                    <b>Felicidades</b>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
                 </div>
                 <div class="modal-body">
-                    <img src="./assets/images/Esterilizacion.png" style="width: 100%;">
-                    <!-- <img src="./assets/images/RecesoAdeministrativo.png" style="width: 100%;"> -->
+                    <img src="./assets/images/FlyerCopoder.jpg" style="width: 100%;">
+                    <!-- Estimados colegas:<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desde la tesorería del colegio vemos conveniente continuar con
+                    la reducción del costo de la cuota y seguro de mala praxis correspondiente al mes de MAYO/2020.<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dicha reducción será del cincuenta por ciento (50%) y la misma
+                    podrá ser abonada durante todo el mes de mayo.
+                    <div class="mbr-section-btn text-center">
+                        <a href="comunicado_04.php" class="btn btn-primary display-4">Leer Más</a>
+                    </div> -->
+                    <!-- Para todos aquellos colegiados que quieran adherirse al pago extendido.<br>
+                Los interesados deben enviar un correo electrónico a colegiopodologos@hotmail.com.ar
+                Hasta el 10 de abril inclusive de la siguiente manera:<br>
+                <b>Asunto:</b> “Régimen de pago extendido”<br>
+                <b>En el cuerpo del mensaje:</b> “Solicito incorporarme al régimen de pago extendido”<br>
+                Apellido<br>
+                Nombre<br>
+                Numero de matricula<br>
+                Deseo poder abonar mis obligaciones del mes de Abril 2020 en una dos o tres (1-2-3) cuotas. -->
+                    <!-- <iframe src="./assets/files/resolucion_00010_20.pdf#toolbar=0&view=FitH" width="100%" height="100%"></iframe> -->
                 </div>
             </div>
         </div>

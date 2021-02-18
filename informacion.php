@@ -54,6 +54,52 @@
                             <img src="assets/images/comunicados/carta1.png" alt="CoPodER" title="CoPodER">
                         </div>
                         <div class="card-box">
+                            <h4 class="card-title mbr-fonts-style display-5">Pedido de Conformacion De Comisiones</h4>
+                            <p class="mbr-text mbr-fonts-style display-7">
+                                05 de Febrero de 2021
+                            </p>
+                            <form action="informacion_del_2021_02_05.php" method="POST" class="mbr-form form-with-styler"
+                            target="_blank">
+                            <div class="mbr-section-btn align-left">
+                                    <div class="col-auto input-group-btn">
+                                        <button type="submit"
+                                        class="btn btn-warning-outline display-4">Ingresar</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card col-12 col-md-6 p-3 col-lg-3">
+                    <div class="card-wrapper">
+                        <div class="card-img">
+                            <img src="assets/images/comunicados/carta1.png" alt="CoPodER" title="CoPodER">
+                        </div>
+                        <div class="card-box">
+                            <h4 class="card-title mbr-fonts-style display-5">Convenio IOSPER-COPODER</h4>
+                            <p class="mbr-text mbr-fonts-style display-7">
+                                08 de Enero de 2021
+                            </p>
+                            <form action="informacion_del_2021_01_08.php" method="POST" class="mbr-form form-with-styler"
+                            target="_blank">
+                            <div class="mbr-section-btn align-left">
+                                    <div class="col-auto input-group-btn">
+                                        <button type="submit"
+                                        class="btn btn-warning-outline display-4">Ingresar</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card col-12 col-md-6 p-3 col-lg-3">
+                    <div class="card-wrapper">
+                        <div class="card-img">
+                            <img src="assets/images/comunicados/carta1.png" alt="CoPodER" title="CoPodER">
+                        </div>
+                        <div class="card-box">
                             <h4 class="card-title mbr-fonts-style display-5">Solicitud Vacuna Sputnik V</h4>
                             <p class="mbr-text mbr-fonts-style display-7">
                                 28 de Diciembre de 2020
