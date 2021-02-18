@@ -27,8 +27,10 @@
                 <li class="nav-item"><a class="nav-link link text-black display-4" href="page4.php">Biblioteca</a></li>
                 <li class="nav-item"><a class="nav-link link text-black display-4" href="informacion.php">Información</a></li>
                 <li class="nav-item"><a class="nav-link link text-black display-4" href="reglamento.php">Reglamentación</a></li>
+                <li class="nav-item"><a class="nav-link link text-black display-4" href="cambioClave.php">Cambio Clave</a></li>
                 <li class="nav-item"><a class="nav-link link text-black display-4" href="salir.php">Salir</a></li>
             </ul>
+            
             <div class="navbar-buttons mbr-section-btn">
                 <a class="btn btn-sm btn-primary display-4"
                     href="tel:+54-0343-4071707">

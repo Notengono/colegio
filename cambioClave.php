@@ -1,4 +1,4 @@
-<?php //include_once 'acceso.php';?>
+<?php include_once 'acceso.php';?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -35,13 +35,37 @@
             </div>
         </div>
     </section>
+        <?php
+        extract($_GET, EXTR_OVERWRITE);
+        if (isset($estado)) {
+            if ($estado == 1) {
+                ?>
+                <div class="alert alert-success alert-dismissible" role="alert">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="align-left pb-3 mbr-fonts-style display-6 text-center">
+                        ¡Clave <strong>actualizada</strong> exitosamente!
+                    </h4>
+                </div>
+                <?php
+        } else {
+            ?>
+                <div class="alert alert-danger alert-dismissible text-center" role="alert">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="align-left pb-3 mbr-fonts-style display-6 text-center">
+                        ¡La clave <strong>NO</strong> fue actualizada!
+                    </h4>
+                </div>
+                <?php
+        }
+    }
+    ?>
+
     <section class="services1 cid-rDMeX8EzIZ" id="services1-q">
         <!--Overlay-->
-
         <!--Container-->
         <div class="container">
             <div class="row justify-content-center">
-                <!--Titles-->
+            <!--Titles-->
                 <div class="title pb-5 col-12">
                     <h2 class="align-left pb-3 mbr-fonts-style display-1">
                         Actualización de clave
@@ -55,6 +79,7 @@
                                 <div class="dragArea row">
                                     <div class="form-group col" data-for="email">
                                         <input type="email" name="email" placeholder="correo@algo.com" data-form-field="email" required="required" class="form-control display-7" id="email">
+                                        <input type="hidden" name="id" id="id" value="<?php echo $_SESSION['id']; ?>">
                                     </div>
                                 </div>
                                 <div class="dragArea row">
