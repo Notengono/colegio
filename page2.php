@@ -28,7 +28,7 @@
 </head>
 
 <body>
-  <?php include_once 'menu.php'?>
+  <?php include_once 'menu.php' ?>
 
   <section class="header1 cid-rDLW2tDaH2 mbr-parallax-background" id="header1-g">
     <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(20, 157, 204);"></div>
@@ -592,7 +592,7 @@
 
               <tr>
                 <td class="body-item mbr-fonts-style display-7">270</td>
-                <td class="body-item mbr-fonts-style display-7">Sosa Hilda DeliaELIA</td>
+                <td class="body-item mbr-fonts-style display-7">Sosa Hilda Delia</td>
                 <td class="body-item mbr-fonts-style display-7">GUEMES 818</td>
                 <td class="body-item mbr-fonts-style display-7">Victoria</td>
                 <td class="body-item mbr-fonts-style display-7">0343-615617601</td>
@@ -602,25 +602,25 @@
                 <td class="body-item mbr-fonts-style display-7">271</td>
                 <td class="body-item mbr-fonts-style display-7">Fernandez Alicia Raquel</td>
                 <td class="body-item mbr-fonts-style display-7">ALFREDO A. SALCERINI 1669</td>
-                <td class="body-item mbr-fonts-style display-7">0343-5138367</td>
                 <td class="body-item mbr-fonts-style display-7">Paraná</td>
+                <td class="body-item mbr-fonts-style display-7">0343-5138367</td>
                 <td class="body-item mbr-fonts-style display-7">No</td>
               </tr>
               <tr>
                 <td class="body-item mbr-fonts-style display-7">272</td>
                 <td class="body-item mbr-fonts-style display-7">Cardoso Maira Georgina</td>
                 <td class="body-item mbr-fonts-style display-7">3 DE FEBRERO 1837</td>
-                <td class="body-item mbr-fonts-style display-7">0343-4663706</td>
                 <td class="body-item mbr-fonts-style display-7">Paraná</td>
+                <td class="body-item mbr-fonts-style display-7">0343-4663706</td>
                 <td class="body-item mbr-fonts-style display-7">No</td>
               </tr>
-              
+
               <tr>
                 <td class="body-item mbr-fonts-style display-7">273</td>
                 <td class="body-item mbr-fonts-style display-7">Dechanzi Ana Carolina</td>
                 <td class="body-item mbr-fonts-style display-7">HEREÑU 1445</td>
-                <td class="body-item mbr-fonts-style display-7">0343-4044071</td>
                 <td class="body-item mbr-fonts-style display-7">Paraná</td>
+                <td class="body-item mbr-fonts-style display-7">0343-4044071</td>
                 <td class="body-item mbr-fonts-style display-7">No</td>
               </tr>
 
@@ -628,13 +628,11 @@
                 <td class="body-item mbr-fonts-style display-7">275</td>
                 <td class="body-item mbr-fonts-style display-7">Michel Jesica Walquiria</td>
                 <td class="body-item mbr-fonts-style display-7">SUPREMO ENTRERRIANO 435</td>
-                <td class="body-item mbr-fonts-style display-7">03442-541051</td>
                 <td class="body-item mbr-fonts-style display-7">C. del Uruguay</td>
+                <td class="body-item mbr-fonts-style display-7">03442-541051</td>
                 <td class="body-item mbr-fonts-style display-7">No</td>
               </tr>
-
               <!-- Fin Sin Obra Social -->
-
 
               <!-- Inicio Con Obra Social -->
               <tr>
